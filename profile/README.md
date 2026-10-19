@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="KaiLabs Studio — Your Technical Partner from Idea to Production" width="100%" />
+  <img width="100%" height="256" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=KaiLabs%20Studio&fontSize=40&fontColor=ffffff" />
 </div>
-
-# KaiLabs Studio
 
 > **Your Technical Partner from Idea to Production**
 
