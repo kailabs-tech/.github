@@ -6,7 +6,7 @@
 
 KaiLabs Studio helps startups and businesses turn ideas into reliable, scalable digital products through technology consulting, product engineering, and software development.
 
-We partner with teams across the product journey—from exploring an idea and shaping the technical solution to building, launching, and evolving production-ready software.
+We partner with teams across the product journey, from exploring an idea and shaping the technical solution to building, launching, and evolving production-ready software.
 
 ## What We Do
 
